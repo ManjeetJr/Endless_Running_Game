@@ -110,8 +110,8 @@ This project was developed as part of my **Diploma in Computer Engineering** to:
 
 ## 📸 Screenshots / Gameplay
 ![Gameplay Character Change Screenshot](Assets/Character_HUD.png)
-![Gameplay Over Screenshot](Assets/GamrOver_HUD.png)
-![Megnet Logic Example](Assets/Megnet_Logic.png)
+![Gameplay Over Screenshot](Assets/GameOver_HUD.png)
+![Megnet Logic Example](Assets/Magnet_Logic.png)
 
 
 
