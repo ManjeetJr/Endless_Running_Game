@@ -1,4 +1,4 @@
-# 🏃‍♂️ 3D Endless Running Game – Unreal Engine
+#  3D Endless Running Game – Unreal Engine
 
 A **fast-paced 3D endless running game** built in **Unreal Engine**.  
 Run, jump, and dodge obstacles to survive as long as you can — test your reflexes and beat your own high score!
@@ -14,14 +14,14 @@ The goal is simple — **avoid obstacles, collect points**, and **survive as lon
 
 ## 🧠 Key Features
 
-- 🌀 **Procedural Tile Spawning** – Automatically generates new road tiles endlessly.  
-- ⚙️ **Game Manager System** – Controls game flow, player respawn, and tile generation.  
-- 💥 **Obstacle & Coin Spawning Logic** – Dynamic placement with collision detection.  
-- 🪙 **Coin Collection System** – Score increases as player collects coins.  
-- 🔁 **Dynamic Difficulty** – Speed and challenge increase over time.  
-- 🎵 **Sound Effects & Background Music** – Immersive audio for better gameplay.  
-- 🎨 **Custom 3D Assets & Materials** – Designed for a polished and vibrant look.  
-- 🧩 **Blueprint + C++ Mix** – Uses Unreal Engine Blueprints for visual scripting and logic control.  
+-  **Procedural Tile Spawning** – Automatically generates new road tiles endlessly.  
+-  **Game Manager System** – Controls game flow, player respawn, and tile generation.  
+-  **Obstacle & Coin Spawning Logic** – Dynamic placement with collision detection.  
+-  **Coin Collection System** – Score increases as player collects coins.  
+-  **Dynamic Difficulty** – Speed and challenge increase over time.  
+-  **Sound Effects & Background Music** – Immersive audio for better gameplay.  
+-  **Custom 3D Assets & Materials** – Designed for a polished and vibrant look.  
+-  **Blueprint + C++ Mix** – Uses Unreal Engine Blueprints for visual scripting and logic control.  
 
 ---
 
@@ -79,12 +79,11 @@ Endless_Running_Game/
 ---
 
 ## 🚀 Future Improvements
-
-- 🧍 Add new playable characters  
-- 🗺️ Introduce new environments and biomes  
-- ⚡ Power-ups and special abilities  
-- 🌍 Multiplayer or leaderboard system  
-- 📱 Android & iOS packaging  
+ 
+-  Introduce new environments and biomes  
+-  New Power-ups and special abilities  
+-  Multiplayer or leaderboard system  
+-  iOS packaging  
 
 ---
 
@@ -100,7 +99,7 @@ This project was developed as part of my **Diploma in Computer Engineering** to:
 
 ## 🧑‍💻 Developed By
 
-**👨‍🎮 Manjeet Dhiman**  
+** Manjeet Dhiman**  
 > Turning ideas into virtual worlds | Learning Unreal Engine & Game Development  
 
 📍 **GitHub:** [ManjeetJr](https://github.com/ManjeetJr)  
@@ -109,6 +108,12 @@ This project was developed as part of my **Diploma in Computer Engineering** to:
 ---
 
 ## 📸 Screenshots / Gameplay
+## Character Change HUD
+![Gameplay Character Change Screenshot](Assets/Character_HUD.png)
+## Game Over  HUD
+![Gameplay Over Screenshot](Assets/GameOver_HUD.png)
+## Megnet Logic
+![Megnet Logic Example](Assets/Magnet_Logic.png)
 
 
 
